@@ -36,25 +36,29 @@ We're actively seeking **traction and validation from the Stellar ecosystem**. W
 <h3 align="center">🛠️ Founders:</h3>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" alt="Kevin Latino" width="150" />
+        <td align="center">
+      <img src="./Santiago.jpeg" alt="Santiago Villarreal" width="150" />
       <br /><br />
-      <strong>Blockchain Developer | Co-Founder</strong>
+      <strong>Co-Founder</strong>
       <br /><br />
-      <a href="https://github.com/kevinlatino" target="_blank">Kevin Latino</a>
+      <a href="https://github.com/Villarley" target="_blank">Santiago Villarreal</a>
       <br />
       <a href="https://t.me/kevlatino" target="_blank">Telegram</a>
     </td>
     <td align="center">
+      <img src="./Kevin.jpeg" alt="Kevin Latino" width="150" />
       <br /><br />
-      <strong>Full Stack Developer | Co-Founder</strong>
+      <strong>Co-Founder</strong>
       <br /><br />
-      <a href="https://github.com/santiagovillarley" target="_blank">Santiago Villarley</a>
+      <a href="https://github.com/KevinLatino" target="_blank">Kevin Latino</a>
       <br />
-      <a href="https://t.me/villarley" target="_blank">Telegram</a>
+      <a href="https://t.me/kevlatino" target="_blank">Telegram</a>
     </td>
   </tr>
 </table>
 
+<br>
 
-Together, let's build a better decentralized future 🚀
+<div align="center">
+Join us and: create, explore and expand 🌎⚡️
+</div>
