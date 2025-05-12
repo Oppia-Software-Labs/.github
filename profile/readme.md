@@ -39,7 +39,7 @@ We're actively seeking **traction and validation from the Stellar ecosystem**. W
         <td align="center">
       <img src="./Santiago.jpeg" alt="Santiago Villarreal" width="150" />
       <br /><br />
-      <strong>Co-Founder</strong>
+      <strong>Founder</strong>
       <br /><br />
       <a href="https://github.com/Villarley" target="_blank">Santiago Villarreal</a>
       <br />
@@ -48,7 +48,7 @@ We're actively seeking **traction and validation from the Stellar ecosystem**. W
     <td align="center">
       <img src="./Kevin.jpeg" alt="Kevin Latino" width="150" />
       <br /><br />
-      <strong>Co-Founder</strong>
+      <strong>Founder</strong>
       <br /><br />
       <a href="https://github.com/KevinLatino" target="_blank">Kevin Latino</a>
       <br />
