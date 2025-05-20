@@ -34,27 +34,31 @@ We're actively seeking **traction and validation from the Stellar ecosystem**. W
 ---
 
 <h3 align="center">🛠️ Founders:</h3>
-<table align="center">
+<table align="center" cellpadding="10">
   <tr>
     <td align="center">
-         <img src="./WhatsApp Image 2025-04-24 at 22.12.17.jpeg" alt="Kevin Latino" width="152" />
+      <img src="./WhatsApp Image 2025-04-24 at 22.12.17.jpeg" alt="Santiago Villarreal" width="150" style="border-radius: 8px;" />
       <br /><br />
       <strong>Founder</strong>
+      <br />
+      <span>Santiago Villarreal</span>
       <br /><br />
-      <a href="https://github.com/Villarley" target="_blank">Santiago Villarreal</a>
-      <a href="https://t.me/kevlatino" target="_blank">Telegram</a>
+      <a href="https://github.com/Villarley" target="_blank">GitHub</a> | 
+      <a href="https://t.me/villarley" target="_blank">Telegram</a>
     </td>
     <td align="center">
-      <img src="./Kevin.jpeg" alt="Kevin Latino" width="150" />
+      <img src="./Kevin.jpeg" alt="Kevin Latino" width="150" style="border-radius: 8px;" />
       <br /><br />
       <strong>Founder</strong>
-      <br /><br />
-      <a href="https://github.com/KevinLatino" target="_blank">Kevin Latino</a>
       <br />
+      <span>Kevin Latino</span>
+      <br /><br />
+      <a href="https://github.com/KevinLatino" target="_blank">GitHub</a> | 
       <a href="https://t.me/kevlatino" target="_blank">Telegram</a>
     </td>
   </tr>
 </table>
+
 
 <br>
 
