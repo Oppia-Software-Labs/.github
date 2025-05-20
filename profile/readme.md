@@ -37,7 +37,7 @@ We're actively seeking **traction and validation from the Stellar ecosystem**. W
 <table align="center">
   <tr>
         <td align="center">
-      <img src="./Santiago.jpeg" alt="Santiago Villarreal" width="150" />
+      <img src="./santiago.jpeg" alt="Santiago Villarreal" width="150" />
       <br /><br />
       <strong>Founder</strong>
       <br /><br />
