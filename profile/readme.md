@@ -36,13 +36,12 @@ We're actively seeking **traction and validation from the Stellar ecosystem**. W
 <h3 align="center">🛠️ Founders:</h3>
 <table align="center">
   <tr>
-        <td align="center">
-      <img src="./santiago.jpeg" alt="Santiago Villarreal" width="150" />
+    <td align="center">
+         <img src="./WhatsApp Image 2025-04-24 at 22.12.17.jpeg" alt="Kevin Latino" width="152" />
       <br /><br />
       <strong>Founder</strong>
       <br /><br />
       <a href="https://github.com/Villarley" target="_blank">Santiago Villarreal</a>
-      <br />
       <a href="https://t.me/kevlatino" target="_blank">Telegram</a>
     </td>
     <td align="center">
