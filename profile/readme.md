@@ -6,7 +6,7 @@
 
 To harness the potential of blockchain and Web3 technologies to create scalable, impactful solutions that improve how people interact with systems in everyday life — starting with social good, and expanding into DeFi and beyond.
 
-## 🌐 Current Project: VolunChain
+## 🌐 Current Project: Latio
 
 **VolunChain** is our flagship platform, designed to revolutionize the way volunteering works in Costa Rican universities. By leveraging the Stellar blockchain, VolunChain makes volunteer hours traceable, transparent, decentralized, and rewarding for everyone involved.
 
