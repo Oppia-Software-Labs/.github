@@ -1,3 +1,4 @@
+<img src="./Oppia-Banners/Linkedin/pngs/Linkedin-Main-Banner.png" width="1000" />
 
 # Oppia Software Labs
 
