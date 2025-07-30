@@ -1,24 +1,43 @@
+Perfecto 👌, entonces dejo el README con ese cierre más inspirador usando **Join us to Create, Explore, Expand**. Aquí te va la versión actualizada:
+
+---
+
 # Oppia Software Labs
 
-**Oppia Software Labs (OS Labs)** is a Web3 startup focused on building innovative, blockchain-based solutions that solve real-world problems. We believe in the power of decentralization, transparency, and user empowerment.
+**Technology with purpose. Impact over hype. Direction over noise. 🎯🌟**
+
+Oppia Software Labs (OS Labs) is a Web3 innovation studio dedicated to building **open-source, decentralized solutions with real-world impact**.
+We believe in decentralization, transparency, and user empowerment — creating technology that makes a meaningful difference.
+
+---
 
 ## 🚀 Our Mission
 
-To harness the potential of blockchain and Web3 technologies to create scalable, impactful solutions that improve how people interact with systems in everyday life — starting with social good, and expanding into DeFi and beyond.
+To harness the potential of blockchain and Web3 technologies to design **scalable, impactful solutions** that improve how people interact with everyday systems — starting with **social good**, and expanding into **DeFi and beyond**.
 
 
-## 🚧 What We're Looking For
+---
 
-We're actively seeking **traction and validation from the Stellar ecosystem**. We have a passionate team with both experience and the drive to build meaningful products using cutting-edge blockchain technology.
+## 🚧 What We’re Working On
+
+We’re building a growing portfolio of projects designed to empower communities and create positive change:
+
+* **Kredible (DeFi)** → A decentralized lending platform that calculates fair Loan-to-Value (LTV) ratios based on trusted on-chain credit scores.
+* **Upcoming Projects** → Tools for financial inclusion, decentralized education, and social good initiatives.
+
+---
 
 ## 🛠️ Tech Stack
 
-- Web3 / Blockchain (Stellar)  
-- React / Node.js  
-- IPFS / Decentralized Storage (planned)  
-- Smart Contracts (Soroban - planned)  
+* **Web3 / Blockchain (Stellar)**
+* **React / Node.js**
+* **IPFS / Decentralized Storage** *(planned)*
+* **Smart Contracts (Soroban)** *(planned)*
 
 ---
+
+
+
 
 <h3 align="center">🛠️ Founders:</h3>
 <table align="center" cellpadding="10">
