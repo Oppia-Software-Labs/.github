@@ -1,6 +1,3 @@
-Perfecto 👌, entonces dejo el README con ese cierre más inspirador usando **Join us to Create, Explore, Expand**. Aquí te va la versión actualizada:
-
----
 
 # Oppia Software Labs
 
