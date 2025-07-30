@@ -16,10 +16,6 @@ To harness the potential of blockchain and Web3 technologies to create scalable,
 - Easy integration for universities and organizations  
 - Built on the Stellar blockchain for speed, low fees, and financial inclusion  
 
-## 🧠 What We're Exploring
-
-We're currently researching and planning a **DeFi-focused project** to help bring **degens and crypto-native users** into the **Stellar ecosystem**. Our goal is to show that Stellar can support not just financial access, but also next-generation DeFi innovation with real utility.
-
 ## 🚧 What We're Looking For
 
 We're actively seeking **traction and validation from the Stellar ecosystem**. We have a passionate team with both experience and the drive to build meaningful products using cutting-edge blockchain technology.
