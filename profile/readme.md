@@ -60,6 +60,26 @@ We’re building a growing portfolio of projects designed to empower communities
       <a href="https://github.com/KevinLatino" target="_blank">GitHub</a> | 
       <a href="https://t.me/kevlatino" target="_blank">Telegram</a>
     </td>
+        <td align="center">
+      <img src="./WhatsApp Image 2025-04-24 at 22.12.17.jpeg" alt="Santiago Villarreal" width="150" style="border-radius: 8px;" />
+      <br /><br />
+      <strong>Founder</strong>
+      <br />
+      <span>Matías Aguilar</span>
+      <br /><br />
+      <a href="https://github.com/aguilar1x/" target="_blank">GitHub</a> | 
+      <a href="https://t.me/aguilar1x" target="_blank">Telegram</a>
+    </td>
+        <td align="center">
+      <img src="./WhatsApp Image 2025-04-24 at 22.12.17.jpeg" alt="Santiago Villarreal" width="150" style="border-radius: 8px;" />
+      <br /><br />
+      <strong>Founder</strong>
+      <br />
+      <span>Fabián Sanchez</span>
+      <br /><br />
+      <a href="https://github.com/FabianShanchezD" target="_blank">GitHub</a> | 
+      <a href="https://t.me/" target="_blank">Telegram</a>
+    </td>
   </tr>
 </table>
 
