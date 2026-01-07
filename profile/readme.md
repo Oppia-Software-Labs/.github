@@ -77,7 +77,7 @@ We’re building a growing portfolio of projects designed to empower communities
       <br />
       <span>Fabián Sanchez</span>
       <br /><br />
-      <a href="https://github.com/FabianShanchezD" target="_blank">GitHub</a> | 
+      <a href="https://github.com/FabianSanchezD" target="_blank">GitHub</a> | 
       <a href="https://t.me/" target="_blank">Telegram</a>
     </td>
   </tr>
